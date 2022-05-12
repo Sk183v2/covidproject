@@ -13,7 +13,7 @@ Web Technologies used: HTML, CSS, JS, Bootstrap
 
 IDE: VS-Code
 
-<b>Note:</b> Bot is deployed on QnA page
+<b>Note:</b> Bot is Deployed After the Handwash Session
 <br><br>
 
 ### Industry :
@@ -21,7 +21,7 @@ Health
 
 
 ### Project Title :
-Health Website(Covid-Striker) with QnA Bot
+Covid Symptoms Protection and Prevention with QnA Bot
 
 
 ### Problem Statement/Opportunity :
