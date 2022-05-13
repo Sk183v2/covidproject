@@ -1,5 +1,5 @@
 
-# <a href="https://polite-bay-024e16510.1.azurestaticapps.net/">Health Website with QnA Bot</a>
+# <a href="https://polite-bay-024e16510.1.azurestaticapps.net/">COVID-19 Website with QnA Bot</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -7,7 +7,7 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive-100%25-red)
 
-This is a 6 Page Covid-Striker Front End website design
+This is a Covid-19 Front End website design
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
@@ -21,16 +21,21 @@ Health
 
 
 ### Project Title :
-Covid Symptoms Protection and Prevention with QnA Bot
+COVID-19 Website with QnA Bot
 
 
 ### Problem Statement/Opportunity :
-On 11 March 2020, the WHO Director-General “rang the alarm bell loud and clear” by calling COVID-19 a pandemic. Globally and locally, control and prevention measures have been frustrated by myriad challenges. First, accurate information is crucial, but often unknown, or obscured by misinformation. During a pandemic, people do not know what to do. Doing too little (e.g., not following prophylactic measures) can increase everyone’s risk of infection. Pandemics have unique characteristics that make them amenable to tailored interventions deliverable via chatbots. This is a Covid Chat Bot which answers Covid related queries.
+Covid 19 is turned pandemic And causing loss of life economic imbalance and serious problem to world many nations are facing the issue and many don't have dedicated website information and awareness
+Also as in pandemic cant go outside as spread of virus is at peak hence a system needs to be designed with virtual assistant in providing information and creating awareness
+
 
 ### Project Description :
-Our Project is intended to help and support people with the necessary information on the global pandemic. It tackles the crucial threat and despair caused by COVID-19. Chatbots have varied widely in their responses to questions about physical health. Chatbots provide a single answer to most questions, they are able to present concise information from credible sources. Chatbots, in contrast to newspapers and online information sources, can often hear and respond in natural language, improving access for people who cannot read or have difficulty using the internet. This project is related to the global pandemic of Covid -19. It has a QnA set related to the covid queries. When a user asks a relevant query regarding Covid-19 it responds with an appropriate answer. This project solves the doubt and confusions related to covid and busts the myth around Covid-19. This project provides detailed guidance and proper preventions along with user-friendly interface. 
+This website gives the complete information about covid-19 from symptoms , protection to prevention and it does contain the chat bot for assistance. This QnA bot interacts with the user  and assists with covid related information 
+This site is the complete package of COVID and helps in awareness about it and helps in preventing with suitable measures 
+Covid 19 site is dedicated to covid information having entire information with virtual chatbot for interaction this site gives entire information about disease's
+How to prevent protect and control spread of it
+Virtual chatbot helps to predict covid is there or not by stating symptoms and answering other queries
 
-Core Idea of Project is to build an sample prototype Health Website with QnA Bot for worldWide population with the help of HTML, CSS, JAVASCRIPT, BOOTSTRAP and AZURE SERVICES. Across a wide range of industries, chatbots have been an efficiency-enhancing way for business teams to interact with their customers. Chatbots are conversational agents that leverage machine learning and natural language processing to understand intent in order to reply with appropriate answers, and they have advantages relevant to the present crisis. First, they are accessible any time, allowing patients to obtain answers 24/7 and to avoid wait times on hold before reaching a human. Second, chatbots have a higher handling capacity than any human. A single chat bot can simultaneously have conversations with thousands of people no matter what time of day. Regardless of the volume of calls, every question may be answered immediately.
 
 
 ## Azure Technology :
@@ -52,31 +57,31 @@ Core Idea of Project is to build an sample prototype Health Website with QnA Bot
 # Project Video Presentation
 
 - `CLICK ON THE THUMBNAIL (IMAGE) TO VIEW THE VIDEO` <br><br>
-[![Health Website with QnA Bot](https://img.youtube.com/vi/pLpV1dkc97o/0.jpg)](https://www.youtube.com/watch?v=pLpV1dkc97o) <br>
+[![COVID-19 Website with QnA Bot](https://img.youtube.com/vi/pLpV1dkc97o/0.jpg)](https://www.youtube.com/watch?v=pLpV1dkc97o) <br>
  
  # SCREENSHOTS
 
 ### HOME
 
-![home](https://github.com/Sk183v2/covidproject/blob/master/images/Untitled.png)
+![HOME](https://github.com/Sk183v2/covidproject/blob/master/images/Untitled.png)
 
 ### PROTECT
 
-![QnA](https://github.com/Sk183v2/covidproject/blob/master/images/Untitled1.png)
+![PROTECT](https://github.com/Sk183v2/covidproject/blob/master/images/Untitled1.png)
 
 ### SYMPTOMPS
 
-![Prevention](https://github.com/Sk183v2/covidproject/blob/master/images/Untitled2.png)
+![SYMOTOMPS](https://github.com/Sk183v2/covidproject/blob/master/images/Untitled2.png)
 
 ### PREVENT
 
-![symptoms](https://github.com/Sk183v2/covidproject/blob/master/images/Untitled3.png)
+![PREVENT](https://github.com/Sk183v2/covidproject/blob/master/images/Untitled3.png)
 
 ### HANDWASH
 
-![report](https://github.com/Sk183v2/covidproject/blob/master/images/Untitled4.png)
+![HANDWASH](https://github.com/Sk183v2/covidproject/blob/master/images/Untitled4.png)
 
 ### QnA
 
-![about](https://github.com/Sk183v2/covidproject/blob/master/images/Untitled5.png)
+![QnA](https://github.com/Sk183v2/covidproject/blob/master/images/Untitled5.png)
  
